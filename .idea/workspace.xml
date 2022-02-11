@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="ca5292ad-e483-47d3-ab9b-4fc737efdc14" name="Default Changelist" comment="second commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +53,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1578066317525</updated>
-      <workItem from="1644374971054" duration="1462000" />
+      <workItem from="1644374971054" duration="1846000" />
+      <workItem from="1644459990666" duration="2925000" />
     </task>
     <task id="LOCAL-00001" summary="second commit">
       <created>1578067710760</created>
