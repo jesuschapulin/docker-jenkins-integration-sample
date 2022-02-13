@@ -1,0 +1,14 @@
+github:
+  organisations:
+  - name: jesuschapulin
+    repositories:
+    - name: ngx-base
+      push:
+        npm:
+          dependencies:
+            includes:
+            - "*"
+          devDependencies:
+            includes:
+            - "*"
+    - name: ngx-widgets
